@@ -1,8 +1,8 @@
-# 🧾 Suivi des Dépenses Personnelles
+#  Suivi des Dépenses Personnelles
 
 Ce projet est une application front-end développée avec **React** permettant de gérer et suivre ses dépenses personnelles. Il permet d'ajouter des dépenses, les filtrer par catégorie et période, et les visualiser dynamiquement.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - Ajouter une dépense avec :
   - Description
@@ -14,14 +14,14 @@ Ce projet est une application front-end développée avec **React** permettant d
   - Par période (date de début et date de fin)
 - Affichage dynamique des résultats
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - [React](https://reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [HTML/CSS](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [Date Picker](https://reactdatepicker.com/) (ou autre lib utilisée pour le champ de date)
 
-## 📦 Installation
+##  Installation
 
 1. **Cloner le projet :**
 
